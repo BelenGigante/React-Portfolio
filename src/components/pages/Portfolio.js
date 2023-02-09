@@ -1,4 +1,5 @@
 import React from 'react';
+import { SocialIcon } from 'react-social-icons';
 
 
 export default function Blog() {
@@ -14,30 +15,35 @@ export default function Blog() {
       </section>
       <section>
       <a href='https://github.com/BelenGigante/seo-refactor.git' target="_blank">SEO Refactor</a>
+      <a href='https://belengigante.github.io/seo-refactor/' target="_blank"> Deployed URL</a>
       <div>
       <img className='portfolioImg' src='./assets/seo-refactor.png'></img>
       </div>
       </section>
       <section>
       <a href='https://github.com/BelenGigante/password.git' target="_blank">Password Generator</a>
+      <a href='https://belengigante.github.io/password/' target="_blank"> Deployed URL</a>
       <div>
       <img className='portfolioImg' src='./assets/password.png'></img>
       </div>
       </section>
       <section>
       <a href='https://github.com/BelenGigante/weather.git' target="_blank">Weather Forecast</a>
+      <a href='https://belengigante.github.io/weather/' target="_blank"> Deployed URL</a>
       <div>
       <img className='portfolioImg' src='./assets/weather.png'></img>
       </div>
       </section>
       <section>
       <a href='https://github.com/BelenGigante/cuisine-meets-cocktails.git' target="_blank">Cuisine meets Cocktails</a>
+      <a href='https://belengigante.github.io/cuisine-meets-cocktails/' target="_blank"> Deployed URL</a>
       <div>
       <img className='portfolioImg' src='./assets/cuisine.png'></img>
       </div>
       </section>
       <section>
       <a href='https://github.com/BelenGigante/Note-Taker-App.git' target="_blank">Note Taker</a>
+      <a href='https://mighty-tundra-41857.herokuapp.com/' target="_blank"> Deployed URL</a>
       <div>
       <img className='portfolioImg' src='./assets/noteapp.png'></img>
       </div>

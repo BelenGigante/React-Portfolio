@@ -1,8 +1,6 @@
 import React from 'react';
-//import ReactDOM from 'react-dom';
 import { SocialIcon } from 'react-social-icons';
-//import { MarkGithubIcon } from "@react-icons/all-files/fa/FaBeer";
-//<MarkGithubIcon size={16} />
+
 
 function NavLinks() {
 
@@ -11,6 +9,7 @@ function NavLinks() {
       
       <footer className='footer'>
         
+
         <ul className='footerList'>
           <div >
             <SocialIcon className='githubicon' url="https://github.com/BelenGigante" target="_blank"/>
