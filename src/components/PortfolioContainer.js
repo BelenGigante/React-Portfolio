@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+//import { NavLink } from 'react-bootstrap';
+import NavLinks from './NavLinks';
 import NavTabs from './NavTabs';
 import pageComponents from './pages';
 
@@ -18,6 +20,7 @@ export default function PortfolioContainer() {
         pages={pages}
       />
       <Page />
+      <NavLinks/>
     </div>
   );
 }
