@@ -12,8 +12,25 @@ The viewer will be able to access my GitHub, LinkedIn or Twitter accounts from t
 ## Visuals
 
 
+Homepage
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
+![Homepage](./belengigante.github.io_React-Portfolio_.png)
+
+
+About Section
+
+![About Section](./belengigante.github.io_React-Portfolio_%20(1).png)
+
+Portfolio Section
+
+![Portfolio Section](./belengigante.github.io_React-Portfolio_%20(2).png)
+
+Contact Section
+
+![Contact Section](./belengigante.github.io_React-Portfolio_%20(3).png)
 
 ## Links
 
+[GitHub](https://github.com/BelenGigante/React-Portfolio.git)
+
+[Deployed URL](https://belengigante.github.io/React-Portfolio/#home)
