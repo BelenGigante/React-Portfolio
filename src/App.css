@@ -39,6 +39,10 @@ h1{
 h2{
   padding: 30px;
 }
+h3{
+  text-align: left;
+  padding-top: 20px;
+}
 
 .profilePic{
   padding-bottom: 30px;
@@ -81,6 +85,16 @@ h2{
   width: 30px !important;
   height: 30px !important;
   background-color: #888;
+}
+
+.portfolioImg{
+  width: 60px !important;
+  height: 60px !important;
+  padding: 10px;
+}
+.portfolioLinks{
+  display: flex;
+  justify-content: space-around;
 }
 
 @keyframes logo-spin {
