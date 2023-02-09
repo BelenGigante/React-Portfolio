@@ -1,7 +1,6 @@
 import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange, pages }) {
-  // Opportunity
   return (
     <div>
       <h1>Belen Gigante</h1>

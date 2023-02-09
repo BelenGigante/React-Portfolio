@@ -1,4 +1,5 @@
 import React from 'react';
+import { SocialIcon } from 'react-social-icons';
 
 export default function About() {
   return (
@@ -10,6 +11,10 @@ export default function About() {
       <p>
        During training I have developed the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 500+ hours of bootcamp structure, learning JavaScript, Node.Js, React.Js, Express amongs others. Eager to face challenges to achieve lasting impacts on user experience.
       </p>
+      <SocialIcon className='icon' url="https://docs.google.com/document/d/1rm8Vo2_84Ctx-t_i9pRaSq8YFwU5AKAfE99lKOXOfTE/edit?usp=sharing" target="_blank"/>
+      <br></br>
+      <a className='resume' href='https://docs.google.com/document/d/1rm8Vo2_84Ctx-t_i9pRaSq8YFwU5AKAfE99lKOXOfTE/edit?usp=sharing' target="_blank"> Check out my resume! </a>
+     
     </div>
   );
 }

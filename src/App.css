@@ -10,8 +10,14 @@
   border-style: double;
   border-radius: 10px;
   min-height: 550px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+  
+}
+
+p{
+  text-align: justify;
+  padding-bottom: 30px;
 }
 
 .contactDiv{
@@ -30,6 +36,14 @@
   padding: 5px;
   border-radius: 10px;
   border-style: solid;
+}
+
+.resume{
+  padding-top: 40px;
+  margin: 30px;
+  border-radius: 10px;
+  border-style:solid;
+  border-color: #888;
 }
 
 h1{
@@ -51,11 +65,12 @@ h3{
 
 .caption{
   font-size: 11px;
-
+  text-align: center;
 }
 
 .homeHeader{
  padding-top: 30px;
+ text-align: center;
 }
 
 .logo {
@@ -78,13 +93,14 @@ h3{
 }
 
 .icon{
-  width: 30px !important;
-  height: 30px !important;
+  width: 35px !important;
+  height: 35px !important;
 }
 .githubicon{
-  width: 30px !important;
-  height: 30px !important;
+  width: 35px !important;
+  height: 35px !important;
   background-color: #888;
+  border-radius: 14px;
 }
 
 .portfolioImg{
