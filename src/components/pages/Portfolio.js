@@ -14,8 +14,8 @@ export default function Blog() {
       </div>
       </section>
       <section>
-      <a href='https://github.com/BelenGigante/seo-refactor.git' target="_blank">SEO Refactor</a>
-      <a href='https://belengigante.github.io/seo-refactor/' target="_blank"> Deployed URL</a>
+      <a href='https://github.com/NewDev2298/music-player-app.git' target="_blank">Music Playllist</a>
+      <a href='https://fierce-caverns-99507.herokuapp.com/' target="_blank"> Deployed URL</a>
       <div>
       <img className='portfolioImg' src='./assets/seo-refactor.png'></img>
       </div>
