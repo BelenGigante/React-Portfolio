@@ -17,7 +17,7 @@ export default function Blog() {
       <a href='https://github.com/NewDev2298/music-player-app.git' target="_blank">Music Playllist</a>
       <a href='https://fierce-caverns-99507.herokuapp.com/' target="_blank"> Deployed URL</a>
       <div>
-      <img className='portfolioImg' src='./assets/seo-refactor.png'></img>
+      <img className='portfolioImg' src='./assets/profile.png'></img>
       </div>
       </section>
       <section>
